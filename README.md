@@ -1,5 +1,5 @@
-# Computer_Vision
-Implementing basic algorithms from scratch useful in image processing 
+# Computer Vision
+Implementing basic algorithms, useful in image processing, from scratch
 
 The explanation for KNN algorithm is from this website: https://www.analyticsvidhya.com/blog/2018/03/introduction-k-neighbours-algorithm-clustering/#h-what-is-knn-k-nearest-neighbor-algorithm
 
