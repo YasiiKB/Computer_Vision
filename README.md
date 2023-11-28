@@ -16,3 +16,6 @@ The Kmean theory is adapted from a Jupyter notebook provided in the _Data Scienc
 Codes are taken from here: https://docs.opencv.org/3.4/dc/dc3/tutorial_py_matcher.html
 
 Photos and explanation: https://biomedpharmajournal.org/vol13no4/a-robust-model-using-sift-and-gamma-mixture-model-for-texture-images-classification-perspectives-for-medical-applications/
+
+#### PyTorch Convolutional Neural Network (CNN)  
+Looking at this repository: https://github.com/nicknochnack/PyTorchin15
